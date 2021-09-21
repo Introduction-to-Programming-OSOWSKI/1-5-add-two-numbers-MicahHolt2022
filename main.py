@@ -1,6 +1,6 @@
 #writing defining function
-def addTwoNumbers(a,b):
+def add(a,b):
     #returning x and y relation
     return a + b
 #test
-print(addTwoNumbers(2, 4))
+print(add(2, 4))
